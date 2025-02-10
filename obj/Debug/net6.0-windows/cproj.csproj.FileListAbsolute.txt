@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\cproj\bin\Debug\net6.0-windows\cproj.exe
+C:\Users\Admin\Documents\cproj\bin\Debug\net6.0-windows\cproj.deps.json
+C:\Users\Admin\Documents\cproj\bin\Debug\net6.0-windows\cproj.runtimeconfig.json
+C:\Users\Admin\Documents\cproj\bin\Debug\net6.0-windows\cproj.dll
+C:\Users\Admin\Documents\cproj\bin\Debug\net6.0-windows\cproj.pdb
+C:\Users\Admin\Documents\cproj\obj\Debug\net6.0-windows\cproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\cproj\obj\Debug\net6.0-windows\cproj.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\cproj\obj\Debug\net6.0-windows\cproj.AssemblyInfo.cs
+C:\Users\Admin\Documents\cproj\obj\Debug\net6.0-windows\cproj.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\cproj\obj\Debug\net6.0-windows\cproj.dll
+C:\Users\Admin\Documents\cproj\obj\Debug\net6.0-windows\refint\cproj.dll
+C:\Users\Admin\Documents\cproj\obj\Debug\net6.0-windows\cproj.pdb
+C:\Users\Admin\Documents\cproj\obj\Debug\net6.0-windows\cproj.genruntimeconfig.cache
+C:\Users\Admin\Documents\cproj\obj\Debug\net6.0-windows\ref\cproj.dll

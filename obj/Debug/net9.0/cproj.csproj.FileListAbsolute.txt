@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\cproj\bin\Debug\net9.0\cproj.exe
+C:\Users\Admin\Documents\cproj\bin\Debug\net9.0\cproj.deps.json
+C:\Users\Admin\Documents\cproj\bin\Debug\net9.0\cproj.runtimeconfig.json
+C:\Users\Admin\Documents\cproj\bin\Debug\net9.0\cproj.dll
+C:\Users\Admin\Documents\cproj\bin\Debug\net9.0\cproj.pdb
+C:\Users\Admin\Documents\cproj\obj\Debug\net9.0\cproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\cproj\obj\Debug\net9.0\cproj.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\cproj\obj\Debug\net9.0\cproj.AssemblyInfo.cs
+C:\Users\Admin\Documents\cproj\obj\Debug\net9.0\cproj.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\cproj\obj\Debug\net9.0\cproj.dll
+C:\Users\Admin\Documents\cproj\obj\Debug\net9.0\refint\cproj.dll
+C:\Users\Admin\Documents\cproj\obj\Debug\net9.0\cproj.pdb
+C:\Users\Admin\Documents\cproj\obj\Debug\net9.0\cproj.genruntimeconfig.cache
+C:\Users\Admin\Documents\cproj\obj\Debug\net9.0\ref\cproj.dll
