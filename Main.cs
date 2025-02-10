@@ -29,14 +29,13 @@ namespace cproj
             // Nastavení ikony aplikace
             try
             {
-                this.Icon = new Icon("cookie.ico"); // Musíš mít "cookie.ico" verzi obrázku
+                this.Icon = new Icon("cookie.ico"); 
             }
             catch (Exception ex)
             {
                 MessageBox.Show("Chyba při načítání ikony: " + ex.Message);
             }
 
-            // Sušenka (PictureBox místo Buttonu, aby se odstranil hover efekt)
             cookiePictureBox = new PictureBox
             {
                 Width = baseSize,
